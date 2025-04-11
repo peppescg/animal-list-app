@@ -1,2 +1,1 @@
-# animal-list-app
-A repository for an Express.js web application that returns a list of animals
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
