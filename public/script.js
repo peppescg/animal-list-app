@@ -21,6 +21,7 @@ document.addEventListener("DOMContentLoaded", () => {
   };
 
   // Handle form submission for creating a new animal
+  // NOTE: Ensure that the backend implements the necessary endpoints (POST/PUT/DELETE for /animals).
   addAnimalForm.addEventListener("submit", async (event) => {
     event.preventDefault();
     const formData = new FormData(addAnimalForm);
