@@ -23,4 +23,5 @@ app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
 });
 
-console.log("ANIMALS: ", animals);
+// Uncomment the following line for debugging only in a development environment
+// if (process.env.NODE_ENV === "development") console.log("ANIMALS: ", animals);
