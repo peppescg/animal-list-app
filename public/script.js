@@ -93,6 +93,6 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
-    // Initial fetch of animals
+    // Fetch of animals
     fetchAnimals();
 });
