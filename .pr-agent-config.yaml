@@ -9,3 +9,6 @@ tools:
     enabled: true
   improve:
     enabled: true
+git:
+  auto_commit_changes: true
+  auto_commit_prefix: "[pr-agent] "
