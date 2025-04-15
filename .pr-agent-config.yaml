@@ -1,0 +1,11 @@
+tools:
+  test:
+    enabled: true
+    num_tests: 3
+    testing_framework: jest
+  review:
+    enabled: true
+  describe:
+    enabled: true
+  improve:
+    enabled: true
